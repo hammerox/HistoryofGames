@@ -1,0 +1,7 @@
+#Tue Sep 27 15:55:37 BRT 2016
+base.0=C\:\\Users\\Thiago\\Desktop\\Apps_Repositoty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3da4bbd1cf35a35b7b1f328637524075d05463e5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Thiago\\Desktop\\Apps_Repositoty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_39a6fd788ed744c5c9dee31d149226f9a931fe10\\classes.dex
+base.1=C\:\\Users\\Thiago\\Desktop\\Apps_Repositoty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_39a6fd788ed744c5c9dee31d149226f9a931fe10
+file.0=C\:\\Users\\Thiago\\Desktop\\Apps_Repositoty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3da4bbd1cf35a35b7b1f328637524075d05463e5\\classes.dex

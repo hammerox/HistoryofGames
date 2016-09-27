@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">VideoGames</string>
+    <string name="hello_world">Escolha uma plataforma:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recebe_video_game">Detalhes da Plataforma</string>
+    <string name="boasvindaswiiu">Veja as características do seu Wiiu !</string>
+
+</resources>

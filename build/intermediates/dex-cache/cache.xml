@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Thiago\Desktop\Apps_Repositoty\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fb3aad5513779f719f092828f201774a26af7493">
+        <dex dex="C:\Users\Thiago\Desktop\Apps_Repositoty\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_39a6fd788ed744c5c9dee31d149226f9a931fe10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Thiago\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Thiago\Desktop\Apps_Repositoty\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ebfc8da6579d7e79e8c7d2ffa6db7cc491a13f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Thiago\Desktop\Apps_Repositoty\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="069af1f88dbedc6e3fabf1a1292d57cb5760afaf">
+        <dex dex="C:\Users\Thiago\Desktop\Apps_Repositoty\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3da4bbd1cf35a35b7b1f328637524075d05463e5\classes.dex" />
+    </item>
+
+</items>
